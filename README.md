@@ -16,3 +16,9 @@ We analyze information about nine companies: C1, C2, …, C9.
 | ------------- | ------------- || ------------- | ------------- || ------------- | ------------- || ------------- | ------------- || ------------- | ------------- || ------------- | ------------- |
 |Income per capita (thousand Euro)| 2.6	| 2.8 |	1.1 |	4.2 |	3.9 |	4.1 |	1.3	| 1.9	| 3.7 |
 |Population having university education (%)|19	| 23| 17 | 30 |	30 | 35	| 20 | 24	| 32|
+
+
+| Left-aligned | Center-aligned | Right-aligned |
+| :---         |     :---:      |          ---: |
+| git status   | git status     | git status    |
+| git diff     | git diff       | git diff      |
