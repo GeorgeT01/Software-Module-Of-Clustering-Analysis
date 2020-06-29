@@ -21,4 +21,6 @@ We analyze data about nine countries:
 Use K-means algorithm to subdivide the countries into the groups: 1) high income, high proportion of population having university education; 2) low income, low proportion of population having university education; 3) average income, average proportion of population having university education.
 Use the maximin algorithm to subdivide the countries into the groups. Interpret the resulting subdivision.
 
-## [User Manual Video](https://github.com/GeorgeT01/Software-Module-Of-Clustering-Analysis/blob/master/2020-06-29%2020-00-29.mkv)
+## [Click Here to View User Manual Video](https://github.com/GeorgeT01/Software-Module-Of-Clustering-Analysis/blob/master/2020-06-29%2020-00-29.mkv)
+## Screenshot
+![alt text](https://raw.githubusercontent.com/GeorgeT01/Software-Module-Of-Clustering-Analysis/master/Screenshot.png)
