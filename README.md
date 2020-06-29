@@ -1,4 +1,4 @@
-# Software-Module-Of-Clustering-Analysis
+# Software-Module-Of-Cluster-Analysis
 Using C# With no extensions to solve the tasks.
 ## DESIGNING THE MODULE FOR CLUSTER ANALYSIS
 ### General Description
